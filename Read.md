@@ -15,11 +15,10 @@ Demo video Link:
 
 
 Task2-Tribute page
-This page tributes to the S.P. Bala Subrahmanyam.
+This page tributes to the Kanneganti Brahmanandam.
 
-![image](https://www.linkpicture.com/q/tribute-1_1.jpg)
-![image](https://www.linkpicture.com/q/tribute-2_1.jpg)
-![image](https://www.linkpicture.com/q/tribute-3_1.jpg)
+![image](https://www.linkpicture.com/q/Screenshot-16_8.png)
+![image](https://www.linkpicture.com/q/Screenshot-17_10.png)
 
 
 Demo video Link:
